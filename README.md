@@ -55,7 +55,7 @@ Here are some of my recommended settings for VS Code.
 ```
 
 ## Thanks
-Thanks so much for the inspiration to [John Papa](https://github.com/johnpapa) and [Todd Motto](https://github.com/toddmotto).
+Thanks [John Papa](https://github.com/johnpapa) and [Todd Motto](https://github.com/toddmotto) for the inspiration.
 
 ## Licence
 [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?color=blue&style=flat-square)](http://opensource.org/licenses/MIT)
